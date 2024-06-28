@@ -3,6 +3,14 @@ body {
     font-size: 30px;
 }
 
+h2 {
+    color: coral;
+}
+
 h3 {
     color: aqua;
+}
+
+p {
+    color: azure;
 }
